@@ -1,1 +1,2 @@
 Hello now I am experimenting with git vsns
+This is just a random message for testing my new branch
